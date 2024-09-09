@@ -8,7 +8,7 @@ exports[`main when a non-default OIDC issuer is used successfully run main 1`] =
       "workflow": {
         "path": ".github/workflows/main.yml",
         "ref": "main",
-        "repository": "https://example-01.ghe.com/owner/repo",
+        "repository": "https://github.com/VersoriumX-Technology",
       },
     },
     "internalParameters": {
