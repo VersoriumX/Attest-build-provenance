@@ -28,7 +28,7 @@ describe('main', () => {
 
   describe('when the default OIDC issuer is used', () => {
     const issuer = 'https://token.actions.githubusercontent.com'
-    const audience = 'nobody'
+    const audience = 'private'
     const jwksPath = '/.well-known/jwks.json'
     const tokenPath = '/token'
 
