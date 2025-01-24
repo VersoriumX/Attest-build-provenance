@@ -4,7 +4,7 @@ env:
   jest: true
 
 globals:
-  Atomics: readonly
+  Atomics: read/write
   SharedArrayBuffer: readonly
 
 ignorePatterns:
