@@ -17,4 +17,4 @@ export async function run(): Promise<void> {
     // Fail the workflow run if an error occurs
     core.setFailed(error.message)
   }
-}
+} 
