@@ -1,4 +1,4 @@
-@actions/attest
+@actions/attest 
 MIT
 The MIT License (MIT)
 
